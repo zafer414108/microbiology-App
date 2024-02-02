@@ -1,7 +1,9 @@
 # BiologyDive
 
 BiologyDive is an application for learning basics of microbiology in interactive and entertaining way.
+
 The goal of the app is to let the user see the structure of the cell in a way that cannot be done in school.
+
 Users can easily zoom in to discover what are the cells made of.
 
 ![screen_cast_1](https://user-images.githubusercontent.com/16286046/55671845-a8afac00-5894-11e9-813c-1de2489e30db.gif) 
@@ -43,4 +45,4 @@ There is possibility that all hint cards (at the bottom) visible at start match 
 
 ### Why the cells in the small cards don't have any children but only border and fill?
 Flare animations can be expensive. I have removed the content of small cells to lower the risk of frozen frames.
-# microbiology-App
+
