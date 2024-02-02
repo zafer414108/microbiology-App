@@ -1,0 +1,48 @@
+name: biology_dive
+description: Learning microbiology made fun.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flare_flutter: 1.3.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - data.json
+    - bcg.jpg
+    - assets/animal_cell.flr
+    - assets/mitoch.flr
+    - assets/mitoch_matrix.flr
+    - assets/vacu.flr
+    - assets/lysosome.flr
+    - assets/centrosome.flr
+    - assets/nucleus.flr
+    - assets/nucleolus.flr
+    - assets/golgi apparatus.flr
+    - assets/reticulum.flr
+    - assets/ribosome.flr
+    - assets/microtubule.flr
+    - assets/plant_cell.flr
+    - assets/chloroplast.flr
+    - assets/thylakoid.flr
+    - assets/bacterial.flr
+    - assets/pilus1.flr
+    - assets/pilus2.flr
+    - assets/pilus3.flr
+    - assets/pilus4.flr
+    - assets/flagellum.flr
+    - assets/dna.flr
+    - assets/plasmid.flr
+    - assets/menu.flr
+    - assets/fungus.flr
+    - assets/bud.flr
+    - assets/enzyme.flr

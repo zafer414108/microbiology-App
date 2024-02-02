@@ -1,0 +1,1345 @@
+{
+  "menu": {
+    "id": "menu",
+    "img": "assets/menu.flr",
+    "name": "About",
+    "ref": [
+      "animal",
+      "plant_cell",
+      "bacteria"
+    ],
+    "source": "Just tap on anything! :)",
+    "left": 0.0,
+    "top": 0.0,
+    "size": 1.0,
+    "desc": "Biology dive is a simple way to get the basics of microbiology in a interactive and entertaining way. You can see the structure of popular cells and dive deep into their organellas (elements of the cell). Get closer to the details of microbiology by tapping on elements and reading cards appearing on the bottom of the screen (like this one).\n\nHave fun and learn!\nMarcin Szalek",
+    "children": [
+      {
+        "id": "animal",
+        "left": 0.0,
+        "top": 0.0,
+        "size": 0.5
+      },
+      {
+        "id": "plant_cell",
+        "left": 0.5,
+        "top": 0.0,
+        "size": 0.5
+      },
+      {
+        "id": "bacteria",
+        "left": 0.0,
+        "top": 0.5,
+        "size": 0.5
+      },
+      {
+        "id": "fungus",
+        "left": 0.5,
+        "top": 0.5,
+        "size": 0.5
+      }
+    ]
+  },
+  "pilus2": {
+    "id": "pilus2",
+    "img": "assets/pilus2.flr",
+    "name": "Pilus",
+    "ref": [
+      "bacteria",
+      "flagellum",
+      "dna"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Pilus",
+    "left": 0.0,
+    "top": 0.0,
+    "size": 1.0,
+    "desc": "A pilus (Latin for 'hair'; plural: pili) is a hair-like appendage found on the surface of many bacteria.[1] The terms pilus and fimbria (Latin for 'fringe'; plural: fimbriae) can be used interchangeably, although some researchers reserve the term pilus for the appendage required for bacterial conjugation. All pili in the latter sense are primarily composed of pilin proteins, which are oligomeric.",
+    "children": []
+  },
+  "pilus3": {
+    "id": "pilus3",
+    "img": "assets/pilus3.flr",
+    "name": "Pilus",
+    "ref": [
+      "bacteria",
+      "flagellum",
+      "dna"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Pilus",
+    "left": 0.0,
+    "top": 0.0,
+    "size": 1.0,
+    "desc": "A pilus (Latin for 'hair'; plural: pili) is a hair-like appendage found on the surface of many bacteria.[1] The terms pilus and fimbria (Latin for 'fringe'; plural: fimbriae) can be used interchangeably, although some researchers reserve the term pilus for the appendage required for bacterial conjugation. All pili in the latter sense are primarily composed of pilin proteins, which are oligomeric.",
+    "children": []
+  },
+  "pilus4": {
+    "id": "pilus4",
+    "img": "assets/pilus4.flr",
+    "name": "Pilus",
+    "ref": [
+      "bacteria",
+      "flagellum",
+      "dna"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Pilus",
+    "left": 0.0,
+    "top": 0.0,
+    "size": 1.0,
+    "desc": "A pilus (Latin for 'hair'; plural: pili) is a hair-like appendage found on the surface of many bacteria.[1] The terms pilus and fimbria (Latin for 'fringe'; plural: fimbriae) can be used interchangeably, although some researchers reserve the term pilus for the appendage required for bacterial conjugation. All pili in the latter sense are primarily composed of pilin proteins, which are oligomeric.",
+    "children": []
+  },
+  "animal": {
+    "id": "animal",
+    "img": "assets/animal_cell.flr",
+    "name": "Animal cell",
+    "ref": [
+      "mitochondria",
+      "centrosome",
+      "microtubule"
+    ],
+    "source": "https://www.thoughtco.com/all-about-animal-cells-373379",
+    "left": 0.0,
+    "top": 0.0,
+    "size": 1.0,
+    "desc": "Animal cells are eukaryotic cells or cells with a membrane-bound nucleus. Unlike prokaryotic cells, DNA in animal cells is housed within the nucleus. In addition to having a nucleus, animal cells also contain other membrane-bound organelles, or tiny cellular structures, that carry out specific functions necessary for normal cellular operation. Organelles have a wide range of responsibilities that include everything from producing hormones and enzymes to providing energy for animal cells.",
+    "children": [
+      {
+        "id": "microtubule",
+        "left": 0.55,
+        "top": 0.25,
+        "size": 0.2
+      },
+      {
+        "id": "microtubule",
+        "left": 0.6,
+        "top": 0.7,
+        "size": 0.1
+      },
+      {
+        "id": "microtubule",
+        "left": 0.1,
+        "top": 0.5,
+        "size": 0.1
+      },
+      {
+        "id": "mitochondria",
+        "left": 0.65,
+        "top": 0.15,
+        "size": 0.1
+      },
+      {
+        "id": "mitochondria",
+        "left": 0.76,
+        "top": 0.2,
+        "size": 0.1
+      },
+      {
+        "id": "vacuole",
+        "left": 0.73,
+        "top": 0.6,
+        "size": 0.15
+      },
+      {
+        "id": "lysosome",
+        "left": 0.2,
+        "top": 0.2,
+        "size": 0.08
+      },
+      {
+        "id": "lysosome",
+        "left": 0.32,
+        "top": 0.25,
+        "size": 0.08
+      },
+      {
+        "id": "lysosome",
+        "left": 0.25,
+        "top": 0.12,
+        "size": 0.08
+      },
+      {
+        "id": "centrosome",
+        "left": 0.8,
+        "top": 0.45,
+        "size": 0.1
+      },
+      {
+        "id": "nucleus",
+        "left": 0.2,
+        "top": 0.4,
+        "size": 0.4
+      },
+      {
+        "id": "golgi",
+        "left": 0.2,
+        "top": 0.75,
+        "size": 0.15
+      },
+      {
+        "id": "reticulum",
+        "left": 0.45,
+        "top": 0.35,
+        "size": 0.2
+      },
+      {
+        "id": "ribosome",
+        "left": 0.52,
+        "top": 0.355,
+        "size": 0.03
+      },
+      {
+        "id": "ribosome",
+        "left": 0.55,
+        "top": 0.375,
+        "size": 0.03
+      },
+      {
+        "id": "ribosome",
+        "left": 0.5,
+        "top": 0.37,
+        "size": 0.03
+      },
+      {
+        "id": "ribosome",
+        "left": 0.5,
+        "top": 0.35,
+        "size": 0.03
+      },
+      {
+        "id": "ribosome",
+        "left": 0.52,
+        "top": 0.4,
+        "size": 0.03
+      },
+      {
+        "id": "ribosome",
+        "left": 0.54,
+        "top": 0.42,
+        "size": 0.03
+      },
+      {
+        "id": "ribosome",
+        "left": 0.54,
+        "top": 0.4,
+        "size": 0.03
+      },
+      {
+        "id": "ribosome",
+        "left": 0.47,
+        "top": 0.38,
+        "size": 0.03
+      },
+      {
+        "id": "ribosome",
+        "left": 0.2,
+        "top": 0.4,
+        "size": 0.03
+      },
+      {
+        "id": "ribosome",
+        "left": 0.15,
+        "top": 0.3,
+        "size": 0.03
+      },
+      {
+        "id": "ribosome",
+        "left": 0.4,
+        "top": 0.8,
+        "size": 0.03
+      },
+      {
+        "id": "ribosome",
+        "left": 0.6,
+        "top": 0.85,
+        "size": 0.03
+      },
+      {
+        "id": "ribosome",
+        "left": 0.7,
+        "top": 0.6,
+        "size": 0.03
+      },
+      {
+        "id": "ribosome",
+        "left": 0.8,
+        "top": 0.4,
+        "size": 0.03
+      },
+      {
+        "id": "ribosome",
+        "left": 0.5,
+        "top": 0.15,
+        "size": 0.03
+      },
+      {
+        "id": "ribosome",
+        "left": 0.52,
+        "top": 0.17,
+        "size": 0.03
+      },
+      {
+        "id": "ribosome",
+        "left": 0.45,
+        "top": 0.22,
+        "size": 0.03
+      }
+    ]
+  },
+  "plant_cell": {
+    "id": "plant_cell",
+    "img": "assets/plant_cell.flr",
+    "name": "Plant cell",
+    "ref": [
+      "animal",
+      "vacuole",
+      "golgi"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Plant_cell",
+    "left": 0.0,
+    "top": 0.0,
+    "size": 1.0,
+    "desc": "Plant cells are  eukaryotic cells present in green plants, photosynthetic eukaryotes of the kingdom Plantae. Their distinctive features include primary cell walls containing cellulose, hemicelluloses and pectin, the presence of plastids with the capability to perform photosynthesis and store starch, a large vacuole that regulates turgor pressure, the absence of flagella or centrioles, except in the gametes, and a unique method of cell division involving the formation of a cell plate or phragmoplast that separates the new daughter cells.",
+    "children": [
+      {
+        "id": "vacuole",
+        "left": 0.25,
+        "top": 0.33,
+        "size": 0.6
+      },
+      {
+        "id": "nucleus",
+        "left": 0.3,
+        "top": 0.3,
+        "size": 0.25
+      },
+      {
+        "id": "reticulum",
+        "left": 0.45,
+        "top": 0.26,
+        "size": 0.15
+      },
+      {
+        "id": "chloroplast",
+        "left": 0.2,
+        "top": 0.2,
+        "size": 0.08
+      },
+      {
+        "id": "chloroplast",
+        "left": 0.4,
+        "top": 0.1,
+        "size": 0.08
+      },
+      {
+        "id": "chloroplast",
+        "left": 0.15,
+        "top": 0.5,
+        "size": 0.07
+      },
+      {
+        "id": "chloroplast",
+        "left": 0.7,
+        "top": 0.2,
+        "size": 0.08
+      },
+      {
+        "id": "chloroplast",
+        "left": 0.6,
+        "top": 0.3,
+        "size": 0.05
+      },
+      {
+        "id": "chloroplast",
+        "left": 0.78,
+        "top": 0.78,
+        "size": 0.05
+      },
+      {
+        "id": "mitochondria",
+        "left": 0.15,
+        "top": 0.4,
+        "size": 0.1
+      },
+      {
+        "id": "mitochondria",
+        "left": 0.15,
+        "top": 0.68,
+        "size": 0.1
+      },
+      {
+        "id": "mitochondria",
+        "left": 0.55,
+        "top": 0.1,
+        "size": 0.08
+      },
+      {
+        "id": "golgi",
+        "left": 0.1,
+        "top": 0.25,
+        "size": 0.2
+      },
+      {
+        "id": "microtubule",
+        "left": 0.15,
+        "top": 0.78,
+        "size": 0.1
+      },
+      {
+        "id": "microtubule",
+        "left": 0.7,
+        "top": 0.12,
+        "size": 0.1
+      },
+      {
+        "id": "ribosome",
+        "left": 0.65,
+        "top": 0.12,
+        "size": 0.03
+      },
+      {
+        "id": "ribosome",
+        "left": 0.2,
+        "top": 0.6,
+        "size": 0.03
+      },
+      {
+        "id": "ribosome",
+        "left": 0.16,
+        "top": 0.62,
+        "size": 0.03
+      },
+      {
+        "id": "ribosome",
+        "left": 0.21,
+        "top": 0.64,
+        "size": 0.03
+      },
+      {
+        "id": "ribosome",
+        "left": 0.21,
+        "top": 0.15,
+        "size": 0.03
+      },
+      {
+        "id": "ribosome",
+        "left": 0.31,
+        "top": 0.21,
+        "size": 0.03
+      },
+      {
+        "id": "ribosome",
+        "left": 0.27,
+        "top": 0.17,
+        "size": 0.03
+      },
+      {
+        "id": "ribosome",
+        "left": 0.33,
+        "top": 0.12,
+        "size": 0.03
+      },
+      {
+        "id": "ribosome",
+        "left": 0.56,
+        "top": 0.4,
+        "size": 0.03
+      },
+      {
+        "id": "ribosome",
+        "left": 0.47,
+        "top": 0.3,
+        "size": 0.03
+      },
+      {
+        "id": "ribosome",
+        "left": 0.5,
+        "top": 0.26,
+        "size": 0.03
+      },
+      {
+        "id": "ribosome",
+        "left": 0.53,
+        "top": 0.28,
+        "size": 0.03
+      },
+      {
+        "id": "ribosome",
+        "left": 0.55,
+        "top": 0.3,
+        "size": 0.03
+      },
+      {
+        "id": "ribosome",
+        "left": 0.49,
+        "top": 0.28,
+        "size": 0.03
+      },
+      {
+        "id": "ribosome",
+        "left": 0.51,
+        "top": 0.3,
+        "size": 0.03
+      },
+      {
+        "id": "ribosome",
+        "left": 0.4,
+        "top": 0.2,
+        "size": 0.03
+      },
+      {
+        "id": "ribosome",
+        "left": 0.44,
+        "top": 0.24,
+        "size": 0.03
+      },
+      {
+        "id": "ribosome",
+        "left": 0.6,
+        "top": 0.2,
+        "size": 0.03
+      },
+      {
+        "id": "ribosome",
+        "left": 0.82,
+        "top": 0.32,
+        "size": 0.03
+      }
+    ]
+  },
+  "fungus": {
+    "id": "fungus",
+    "img": "assets/fungus.flr",
+    "name": "Fungus",
+    "ref": [
+      "mitochondria",
+      "bud",
+      "ribosome"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Fungus",
+    "left": 0.0,
+    "top": 0.0,
+    "size": 1.0,
+    "desc": "A fungus is any member of the group of eukaryotic organisms that includes microorganisms such as yeasts and molds, as well as the more familiar mushrooms. These organisms are classified as a kingdom, fungi, which is separate from the other eukaryotic life kingdoms of plants and animals. A characteristic that places fungi in a different kingdom from plants, bacteria, and some protists is chitin in their cell walls. Similar to animals, fungi are heterotrophs; they acquire their food by absorbing dissolved molecules.",
+    "children": [
+      {
+        "id": "vacuole",
+        "left": 0.1,
+        "top": 0.3,
+        "size": 0.3
+      },
+      {
+        "id": "nucleus",
+        "left": 0.5,
+        "top": 0.2,
+        "size": 0.25
+      },
+      {
+        "id": "reticulum",
+        "left": 0.65,
+        "top": 0.16,
+        "size": 0.15
+      },
+      {
+        "id": "mitochondria",
+        "left": 0.4,
+        "top": 0.4,
+        "size": 0.1
+      },
+      {
+        "id": "mitochondria",
+        "left": 0.2,
+        "top": 0.68,
+        "size": 0.12
+      },
+      {
+        "id": "mitochondria",
+        "left": 0.5,
+        "top": 0.1,
+        "size": 0.08
+      },
+      {
+        "id": "mitochondria",
+        "left": 0.7,
+        "top": 0.6,
+        "size": 0.08
+      },
+      {
+        "id": "mitochondria",
+        "left": 0.8,
+        "top": 0.3,
+        "size": 0.08
+      },
+      {
+        "id": "golgi",
+        "left": 0.35,
+        "top": 0.65,
+        "size": 0.25
+      },
+      {
+        "id": "ribosome",
+        "left": 0.65,
+        "top": 0.52,
+        "size": 0.03
+      },
+      {
+        "id": "ribosome",
+        "left": 0.2,
+        "top": 0.6,
+        "size": 0.03
+      },
+      {
+        "id": "ribosome",
+        "left": 0.16,
+        "top": 0.62,
+        "size": 0.03
+      },
+      {
+        "id": "ribosome",
+        "left": 0.21,
+        "top": 0.64,
+        "size": 0.03
+      },
+      {
+        "id": "ribosome",
+        "left": 0.41,
+        "top": 0.65,
+        "size": 0.03
+      },
+      {
+        "id": "ribosome",
+        "left": 0.51,
+        "top": 0.61,
+        "size": 0.03
+      },
+      {
+        "id": "ribosome",
+        "left": 0.47,
+        "top": 0.55,
+        "size": 0.03
+      },
+      {
+        "id": "ribosome",
+        "left": 0.20,
+        "top": 0.3,
+        "size": 0.03
+      },
+      {
+        "id": "ribosome",
+        "left": 0.65,
+        "top": 0.7,
+        "size": 0.03
+      },
+      {
+        "id": "ribosome",
+        "left": 0.76,
+        "top": 0.3,
+        "size": 0.03
+      },
+      {
+        "id": "ribosome",
+        "left": 0.67,
+        "top": 0.2,
+        "size": 0.03
+      },
+      {
+        "id": "ribosome",
+        "left": 0.7,
+        "top": 0.16,
+        "size": 0.03
+      },
+      {
+        "id": "ribosome",
+        "left": 0.73,
+        "top": 0.18,
+        "size": 0.03
+      },
+      {
+        "id": "ribosome",
+        "left": 0.75,
+        "top": 0.2,
+        "size": 0.03
+      },
+      {
+        "id": "ribosome",
+        "left": 0.69,
+        "top": 0.18,
+        "size": 0.03
+      },
+      {
+        "id": "ribosome",
+        "left": 0.71,
+        "top": 0.2,
+        "size": 0.03
+      },
+      {
+        "id": "ribosome",
+        "left": 0.4,
+        "top": 0.2,
+        "size": 0.03
+      },
+      {
+        "id": "ribosome",
+        "left": 0.44,
+        "top": 0.24,
+        "size": 0.03
+      },
+      {
+        "id": "ribosome",
+        "left": 0.6,
+        "top": 0.5,
+        "size": 0.03
+      },
+      {
+        "id": "ribosome",
+        "left": 0.82,
+        "top": 0.42,
+        "size": 0.03
+      },
+      {
+        "id": "bud",
+        "left": 0.11,
+        "top": 0.78,
+        "size": 0.2
+      }
+    ]
+  },
+  "bacteria": {
+    "id": "bacteria",
+    "img": "assets/bacterial.flr",
+    "name": "Bacterial cell",
+    "ref": [
+      "pilus1",
+      "dna",
+      "plasmid"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Bacterial_cell_structure",
+    "left": 0.0,
+    "top": 0.0,
+    "size": 1.0,
+    "desc": "The bacterium, despite its simplicity, contains a well-developed cell structure which is responsible for some of its unique biological structures and pathogenicity. Many structural features are unique to bacteria and are not found among archaea or eukaryotes. Because of the simplicity of bacteria relative to larger organisms and the ease with which they can be manipulated experimentally, the cell structure of bacteria has been well studied, revealing many biochemical principles that have been subsequently applied to other organisms.",
+    "children": [
+      {
+        "id": "flagellum",
+        "left": -0.22,
+        "top": 0.06,
+        "size": 0.8
+      },
+      {
+        "id": "dna",
+        "left": 0.38,
+        "top": 0.28,
+        "size": 0.4
+      },
+      {
+        "id": "plasmid",
+        "left": 0.3,
+        "top": 0.64,
+        "size": 0.04
+      },
+      {
+        "id": "plasmid",
+        "left": 0.4,
+        "top": 0.35,
+        "size": 0.08
+      },
+      {
+        "id": "plasmid",
+        "left": 0.8,
+        "top": 0.4,
+        "size": 0.06
+      },
+      {
+        "id": "plasmid",
+        "left": 0.6,
+        "top": 0.6,
+        "size": 0.08
+      },
+      {
+        "id": "ribosome",
+        "left": 0.6,
+        "top": 0.25,
+        "size": 0.03
+      },
+      {
+        "id": "ribosome",
+        "left": 0.8,
+        "top": 0.3,
+        "size": 0.03
+      },
+      {
+        "id": "ribosome",
+        "left": 0.7,
+        "top": 0.5,
+        "size": 0.03
+      },
+      {
+        "id": "ribosome",
+        "left": 0.5,
+        "top": 0.7,
+        "size": 0.03
+      },
+      {
+        "id": "ribosome",
+        "left": 0.3,
+        "top": 0.5,
+        "size": 0.03
+      },
+      {
+        "id": "ribosome",
+        "left": 0.35,
+        "top": 0.67,
+        "size": 0.03
+      },
+      {
+        "id": "ribosome",
+        "left": 0.75,
+        "top": 0.25,
+        "size": 0.03
+      },
+      {
+        "id": "pilus1",
+        "left": 0.79,
+        "top": 0.6,
+        "size": 0.1
+      },
+      {
+        "id": "pilus1",
+        "left": 0.67,
+        "top": 0.72,
+        "size": 0.1
+      },
+      {
+        "id": "pilus1",
+        "left": 0.4,
+        "top": 0.16,
+        "size": 0.1
+      },
+      {
+        "id": "pilus1",
+        "left": 0.25,
+        "top": 0.29,
+        "size": 0.1
+      },
+      {
+        "id": "pilus2",
+        "left": 0.5,
+        "top": 0.8,
+        "size": 0.1
+      },
+      {
+        "id": "pilus2",
+        "left": 0.77,
+        "top": 0.07,
+        "size": 0.1
+      },
+      {
+        "id": "pilus2",
+        "left": 0.59,
+        "top": 0.09,
+        "size": 0.1
+      },
+      {
+        "id": "pilus3",
+        "left": 0.14,
+        "top": 0.6,
+        "size": 0.1
+      },
+      {
+        "id": "pilus3",
+        "left": 0.16,
+        "top": 0.45,
+        "size": 0.1
+      },
+      {
+        "id": "pilus3",
+        "left": 0.9,
+        "top": 0.45,
+        "size": 0.1
+      },
+      {
+        "id": "pilus3",
+        "left": 0.95,
+        "top": 0.25,
+        "size": 0.1
+      },
+      {
+        "id": "pilus4",
+        "left": 0.9,
+        "top": 0.14,
+        "size": 0.1
+      },
+      {
+        "id": "pilus4",
+        "left": 0.33,
+        "top": 0.79,
+        "size": 0.1
+      }
+    ]
+  },
+  "mitochondria": {
+    "id": "mitochondria",
+    "img": "assets/mitoch.flr",
+    "name": "Mitochondria",
+    "ref": [
+      "animal",
+      "mitoch_matrix",
+      "ribosome"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Mitochondrion",
+    "left": 0.0,
+    "top": 0.0,
+    "size": 1.0,
+    "desc": "The mitochondrion (plural mitochondria) is a double-membrane-bound organelle found in most eukaryotic organisms. Some cells in some multicellular organisms may, however, lack them (for example, mature mammalian red blood cells). A number of unicellular organisms, such as microsporidia, parabasalids, and diplomonads, have also reduced or transformed their mitochondria into other structures. To date, only one eukaryote, Monocercomonoides, is known to have completely lost its mitochondria.",
+    "children": [
+      {
+        "id": "mitoch_matrix",
+        "top": 0.1,
+        "left": 0.1,
+        "size": 0.8
+      }
+    ]
+  },
+  "mitoch_matrix": {
+    "id": "mitoch_matrix",
+    "img": "assets/mitoch_matrix.flr",
+    "name": "Matrix",
+    "ref": [
+      "mitochondria",
+      "animal",
+      "dna"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Mitochondrial_matrix",
+    "left": 0.0,
+    "top": 0.0,
+    "size": 1.0,
+    "desc": "In the mitochondrion, the matrix is the space within the inner membrane. The word \"matrix\" stems from the fact that this space is viscous, compared to the relatively aqueous cytoplasm. The mitochondrial matrix contains the mitochondria's DNA, ribosomes, soluble enzymes, small organic molecules, nucleotide cofactors, and inorganic ions. The enzymes in the matrix facilitate reactions responsible for the production of ATP, such as the citric acid cycle, oxidative phosphorylation, oxidation of pyruvate and the beta oxidation of fatty acids.",
+    "children": []
+  },
+  "plasmid": {
+    "id": "plasmid",
+    "img": "assets/plasmid.flr",
+    "name": "Plasmid",
+    "ref": [
+      "ribosome",
+      "bacteria",
+      "dna"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Plasmid",
+    "left": 0.0,
+    "top": 0.0,
+    "size": 1.0,
+    "desc": "A plasmid is a small DNA molecule within a cell that is physically separated from chromosomal DNA and can replicate independently. They are most commonly found as small circular, double-stranded DNA molecules in bacteria; however, plasmids are sometimes present in archaea and eukaryotic organisms. In nature, plasmids often carry genes that benefit the survival of the organism, such as by providing antibiotic resistance.",
+    "children": []
+  },
+  "dna": {
+    "id": "dna",
+    "img": "assets/dna.flr",
+    "name": "Nucleoid (DNA)",
+    "ref": [
+      "plasmid",
+      "bacteria",
+      "nucleus"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Nucleoid",
+    "left": 0.0,
+    "top": 0.0,
+    "size": 1.0,
+    "desc": "The nucleoid (meaning nucleus-like) is an irregularly shaped region within the cell of a prokaryote that contains all or most of the genetic material, called genophore. In contrast to the nucleus of a eukaryotic cell, it is not surrounded by a nuclear membrane. The genome of prokaryotic organisms generally is a circular, double-stranded piece of DNA, of which multiple copies may exist at any time. The length of a genome widely varies, but generally is at least a few million base pairs.",
+    "children": []
+  },
+  "pilus1": {
+    "id": "pilus1",
+    "img": "assets/pilus1.flr",
+    "name": "Pilus",
+    "ref": [
+      "bacteria",
+      "flagellum",
+      "dna"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Pilus",
+    "left": 0.0,
+    "top": 0.0,
+    "size": 1.0,
+    "desc": "A pilus (Latin for 'hair'; plural: pili) is a hair-like appendage found on the surface of many bacteria.[1] The terms pilus and fimbria (Latin for 'fringe'; plural: fimbriae) can be used interchangeably, although some researchers reserve the term pilus for the appendage required for bacterial conjugation. All pili in the latter sense are primarily composed of pilin proteins, which are oligomeric.",
+    "children": []
+  },
+  "vacuole": {
+    "id": "vacuole",
+    "img": "assets/vacu.flr",
+    "name": "Vacuole",
+    "ref": [
+      "mitochondria",
+      "fungus",
+      "plant_cell"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Vacuole",
+    "left": 0.0,
+    "top": 0.0,
+    "size": 1.0,
+    "desc": "A vacuole is a membrane-bound organelle which is present in all plant and fungal cells and some protist, animal and bacterial cells and are essentially enclosed compartments which are filled with water containing inorganic and organic molecules including enzymes in solution, though in certain cases they may contain solids which have been engulfed. Vacuoles are formed by the fusion of multiple membrane vesicles and are effectively just larger forms of these. The organelle has no basic shape or size; its structure varies according to the requirements of the cell.",
+    "children": []
+  },
+  "lysosome": {
+    "id": "lysosome",
+    "img": "assets/lysosome.flr",
+    "name": "Lysosome",
+    "ref": [
+      "centrosome",
+      "vacuole",
+      "animal"
+    ],
+    "source": "https://www.thoughtco.com/all-about-animal-cells-373379",
+    "left": 0.0,
+    "top": 0.0,
+    "size": 1.0,
+    "desc": "A lysosome is a membrane-bound organelle found in many animal cells and most plant cells. They are spherical vesicles that contain hydrolytic enzymes that can break down many kinds of biomolecules. A lysosome has a specific composition, of both its membrane proteins, and its lumenal proteins. The lumen's pH (4.5–5.0) is optimal for the enzymes involved in hydrolysis, analogous to the activity of the stomach. Besides degradation of polymers, the lysosome is involved in various cell processes, including secretion, plasma membrane repair, cell signaling, and energy metabolism.",
+    "children": [
+      {
+        "id": "enzyme",
+        "left": 0.3,
+        "top": 0.3,
+        "size": 0.1
+      },
+      {
+        "id": "enzyme",
+        "left": 0.5,
+        "top": 0.7,
+        "size": 0.15
+      },
+      {
+        "id": "enzyme",
+        "left": 0.1,
+        "top": 0.4,
+        "size": 0.13
+      },
+      {
+        "id": "enzyme",
+        "left": 0.6,
+        "top": 0.2,
+        "size": 0.09
+      },
+      {
+        "id": "enzyme",
+        "left": 0.5,
+        "top": 0.8,
+        "size": 0.1
+      },
+      {
+        "id": "enzyme",
+        "left": 0.2,
+        "top": 0.65,
+        "size": 0.1
+      },
+      {
+        "id": "enzyme",
+        "left": 0.6,
+        "top": 0.6,
+        "size": 0.1
+      },
+      {
+        "id": "enzyme",
+        "left": 0.45,
+        "top": 0.45,
+        "size": 0.1
+      },
+      {
+        "id": "enzyme",
+        "left": 0.25,
+        "top": 0.8,
+        "size": 0.1
+      },
+      {
+        "id": "enzyme",
+        "left": 0.4,
+        "top": 0.1,
+        "size": 0.1
+      },
+      {
+        "id": "enzyme",
+        "left": 0.7,
+        "top": 0.4,
+        "size": 0.1
+      }
+    ]
+  },
+  "flagellum": {
+    "id": "flagellum",
+    "img": "assets/flagellum.flr",
+    "name": "Flagellum",
+    "ref": [
+      "pilus1",
+      "bacteria",
+      "mitochondria"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Pilus",
+    "left": 0.0,
+    "top": 0.0,
+    "size": 1.0,
+    "desc": "A pilus (Latin for 'hair'; plural: pili) is a hair-like appendage found on the surface of many bacteria.[1] The terms pilus and fimbria (Latin for 'fringe'; plural: fimbriae) can be used interchangeably, although some researchers reserve the term pilus for the appendage required for bacterial conjugation. All pili in the latter sense are primarily composed of pilin proteins, which are oligomeric.",
+    "children": []
+  },
+  "centrosome": {
+    "id": "centrosome",
+    "img": "assets/centrosome.flr",
+    "name": "Centrosome",
+    "ref": [
+      "mitochondria",
+      "lysosome",
+      "animal"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Centrosome",
+    "left": 0.0,
+    "top": 0.0,
+    "size": 1.0,
+    "desc": "In cell biology, the centrosome (Latin centrum 'center' + Greek sōma 'body') is an organelle that serves as the main microtubule organizing center (MTOC) of the animal cell, as well as a regulator of cell-cycle progression. The centrosome is thought to have evolved only in the metazoan lineage of eukaryotic cells. Fungi and plants lack centrosomes and therefore use structures other than MTOCs to organize their microtubules. Although the centrosome has a key role in efficient mitosis in animal cells, it is not essential in certain fly and flatworm species.",
+    "children": []
+  },
+  "bud": {
+    "id": "bud",
+    "img": "assets/bud.flr",
+    "name": "Bud scar",
+    "ref": [
+      "fungus",
+      "mitochondria",
+      "nucleolus"
+    ],
+    "source": "https://www.yeastgenome.org/go/GO:0005621",
+    "left": 0.0,
+    "top": 0.0,
+    "size": 1.0,
+    "desc": "Crater-like ring of chitinous scar tissue located on the surface of the mother cell. It is formed after the newly emerged daughter cell separates thereby marking the site of cytokinesis and septation. The number of bud scars that accumulate on the surface of a cell is a useful determinant of replicative age.",
+    "children": []
+  },
+  "nucleus": {
+    "id": "nucleus",
+    "img": "assets/nucleus.flr",
+    "name": "Nucleus",
+    "ref": [
+      "plant_cell",
+      "nucleolus",
+      "animal"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Cell_nucleus",
+    "left": 0.0,
+    "top": 0.0,
+    "size": 1.0,
+    "desc": "In cell biology, the nucleus is a membrane-bound organelle found in eukaryotic cells. Eukaryotes usually have a single nucleus, but a few cell types, such as mammalian red blood cells, have no nuclei, and a few others including osteoclasts have many. The cell nucleus contains all of the cell's genome, except for a small fraction of mitochondrial DNA, organized as multiple long linear DNA molecules in a complex with a large variety of proteins, such as histones, to form chromosomes.",
+    "children": [
+      {
+        "id": "nucleolus",
+        "left": 0.4,
+        "top": 0.35,
+        "size": 0.4
+      }
+    ]
+  },
+  "nucleolus": {
+    "id": "nucleolus",
+    "img": "assets/nucleolus.flr",
+    "name": "Nucleolus",
+    "ref": [
+      "mitochondria",
+      "nucleus",
+      "fungus"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Cell_nucleus",
+    "left": 0.0,
+    "top": 0.0,
+    "size": 1.0,
+    "desc": "The nucleolus is the largest structure in the nucleus of eukaryotic cells. It is best known as the site of ribosome biogenesis. Nucleoli also participate in the formation of signal recognition particles and play a role in the cell's response to stress. Nucleoli are made of proteins, DNA and RNA and form around specific chromosomal regions called nucleolar organizing regions. Malfunction of nucleoli can be the cause of several human conditions called \"nucleolopathies\" and the nucleolus is being investigated as a target for cancer chemotherapy.",
+    "children": [
+    ]
+  },
+  "golgi": {
+    "id": "golgi",
+    "img": "assets/golgi apparatus.flr",
+    "name": "Golgi apparatus",
+    "ref": [
+      "ribosome",
+      "nucleolus",
+      "reticulum"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Golgi_apparatus",
+    "left": 0.0,
+    "top": 0.0,
+    "size": 1.0,
+    "desc": "The Golgi apparatus, also known as the Golgi complex, Golgi body, or simply the Golgi, is an organelle found in most eukaryotic cells. It was identified in 1897 by the Italian scientist Camillo Golgi and named after him in 1898. Part of the endomembrane system in the cytoplasm, the Golgi apparatus packages proteins into membrane-bound vesicles inside the cell before the vesicles are sent to their destination. The Golgi apparatus resides at the intersection of the secretory, lysosomal, and endocytic pathways.",
+    "children": []
+  },
+  "reticulum": {
+    "id": "reticulum",
+    "img": "assets/reticulum.flr",
+    "name": "Endoplasmic reticulum",
+    "ref": [
+      "golgi",
+      "nucleus",
+      "ribosome"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Endoplasmic_reticulum",
+    "left": 0.0,
+    "top": 0.0,
+    "size": 1.0,
+    "desc": "The endoplasmic reticulum (ER) is a type of organelle found in eukaryotic cells that forms an interconnected network of flattened, membrane-enclosed sacs or tube-like structures known as cisternae. The membranes of the ER are continuous with the outer nuclear membrane. The endoplasmic reticulum occurs in most types of eukaryotic cells, but is absent from red blood cells and spermatozoa.",
+    "children": []
+  },
+  "ribosome": {
+    "id": "ribosome",
+    "img": "assets/ribosome.flr",
+    "name": "Ribosome",
+    "ref": [
+      "mitochondria",
+      "nucleus",
+      "reticulum"
+    ],
+    "source": "https://en.wikipedia.org/wiki/ribosome",
+    "left": 0.0,
+    "top": 0.0,
+    "size": 1.0,
+    "desc": "The ribosome is a complex molecular machine, found within all living cells, that serves as the site of biological protein synthesis (translation). Ribosomes link amino acids together in the order specified by messenger RNA (mRNA) molecules. Ribosomes consist of two major components: the small ribosomal subunits, which read the RNA, and the large subunits, which join amino acids to form a polypeptide chain. Each subunit comprises one or more ribosomal RNA (rRNA) molecules and a variety of ribosomal proteins (r-protein or rProtein).",
+    "children": []
+  },
+  "microtubule": {
+    "id": "microtubule",
+    "img": "assets/microtubule.flr",
+    "name": "Microtubule",
+    "ref": [
+      "animal",
+      "reticulum",
+      "plant_cell"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Microtubule",
+    "left": 0.0,
+    "top": 0.0,
+    "size": 1.0,
+    "desc": "Microtubules are polymers of tubulin that form part of the cytoskeleton and provide structure and shape to the cytoplasm of eukaryotic cells, some bacteria and some archaea (like Asgard). A microtubule can grow as long as 50 micrometres and are highly dynamic. The outer diameter of a microtubule is about 24 nm while the inner diameter is about 12 nm. They are formed by the polymerization of a dimer of two globular proteins, alpha and beta tubulin into protofilaments that can then associate laterally to form a hollow tube, the microtubule.",
+    "children": []
+  },
+  "chloroplast": {
+    "id": "chloroplast",
+    "img": "assets/chloroplast.flr",
+    "name": "Chloroplast",
+    "ref": [
+      "thylakoid",
+      "vacuole",
+      "plant_cell"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Chloroplast",
+    "left": 0.0,
+    "top": 0.0,
+    "size": 1.0,
+    "desc": "Chloroplasts are organelles that conduct photosynthesis, where the photosynthetic pigment chlorophyll captures the energy from sunlight, converts it, and stores it in the energy-storage molecules ATP and NADPH while freeing oxygen from water in plant and algal cells. They then use the ATP and NADPH to make organic molecules from carbon dioxide in a process known as the Calvin cycle. The number of chloroplasts per cell varies from one, in unicellular algae, up to 100 in plants like Arabidopsis and wheat.",
+    "children": [
+      {
+        "id": "thylakoid",
+        "top": 0.2,
+        "left": 0.2,
+        "size": 0.1
+      },
+      {
+        "id": "thylakoid",
+        "top": 0.15,
+        "left": 0.3,
+        "size": 0.1
+      },
+      {
+        "id": "thylakoid",
+        "top": 0.3,
+        "left": 0.25,
+        "size": 0.1
+      },
+      {
+        "id": "thylakoid",
+        "top": 0.3,
+        "left": 0.45,
+        "size": 0.1
+      },
+      {
+        "id": "thylakoid",
+        "top": 0.4,
+        "left": 0.6,
+        "size": 0.1
+      },
+      {
+        "id": "thylakoid",
+        "top": 0.7,
+        "left": 0.7,
+        "size": 0.1
+      },
+      {
+        "id": "thylakoid",
+        "top": 0.45,
+        "left": 0.3,
+        "size": 0.1
+      },
+      {
+        "id": "thylakoid",
+        "top": 0.5,
+        "left": 0.6,
+        "size": 0.1
+      },
+      {
+        "id": "thylakoid",
+        "top": 0.6,
+        "left": 0.45,
+        "size": 0.1
+      },
+      {
+        "id": "thylakoid",
+        "top": 0.5,
+        "left": 0.4,
+        "size": 0.1
+      },
+      {
+        "id": "thylakoid",
+        "top": 0.6,
+        "left": 0.7,
+        "size": 0.1
+      },
+      {
+        "id": "thylakoid",
+        "top": 0.7,
+        "left": 0.5,
+        "size": 0.1
+      },
+      {
+        "id": "thylakoid",
+        "top": 0.8,
+        "left": 0.75,
+        "size": 0.1
+      }
+    ]
+  },
+  "thylakoid": {
+    "id": "thylakoid",
+    "img": "assets/thylakoid.flr",
+    "name": "Thylakoid",
+    "ref": [
+      "vacuole",
+      "plant_cell",
+      "chloroplast"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Thylakoid",
+    "left": 0.0,
+    "top": 0.0,
+    "size": 1.0,
+    "desc": "A thylakoid is a membrane-bound compartment inside chloroplasts and cyanobacteria. They are the site of the light-dependent reactions of photosynthesis. Thylakoids consist of a thylakoid membrane surrounding a thylakoid lumen. Chloroplast thylakoids frequently form stacks of disks referred to as grana (singular: granum). Grana are connected by intergranal or stroma thylakoids, which join granum stacks together as a single functional compartment.",
+    "children": []
+  },
+  "enzyme": {
+    "id": "enzyme",
+    "img": "assets/enzyme.flr",
+    "name": "Enzyme",
+    "ref": [
+      "animal",
+      "ribosome",
+      "lysosome"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Enzyme",
+    "left": 0.0,
+    "top": 0.0,
+    "size": 1.0,
+    "desc": "Enzymes are macromolecular biological catalysts. Enzymes accelerate chemical reactions. The molecules upon which enzymes may act are called substrates and the enzyme converts the substrates into different molecules known as products. Almost all metabolic processes in the cell need enzyme catalysis in order to occur at rates fast enough to sustain life. Metabolic pathways depend upon enzymes to catalyze individual steps.",
+    "children": []
+  }
+}
+
