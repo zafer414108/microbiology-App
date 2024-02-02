@@ -6,9 +6,6 @@ The goal of the app is to let the user see the structure of the cell in a way th
 
 Users can easily zoom in to discover what are the cells made of.
 
-![screen_cast_1](https://user-images.githubusercontent.com/16286046/55671845-a8afac00-5894-11e9-813c-1de2489e30db.gif) 
-![screen_cast_2](https://user-images.githubusercontent.com/16286046/55671846-ab120600-5894-11e9-8e48-401917ff6c4d.gif) 
-![screen_cast_3](https://user-images.githubusercontent.com/16286046/55671847-ad746000-5894-11e9-9832-8ff913f9238c.gif) 
 
 ## Features
 * Zoom in and navigate inside the cell
@@ -45,4 +42,8 @@ There is possibility that all hint cards (at the bottom) visible at start match 
 
 ### Why the cells in the small cards don't have any children but only border and fill?
 Flare animations can be expensive. I have removed the content of small cells to lower the risk of frozen frames.
+Screen gif
 
+![screen_cast_1](https://user-images.githubusercontent.com/16286046/55671845-a8afac00-5894-11e9-813c-1de2489e30db.gif) 
+![screen_cast_2](https://user-images.githubusercontent.com/16286046/55671846-ab120600-5894-11e9-8e48-401917ff6c4d.gif) 
+![screen_cast_3](https://user-images.githubusercontent.com/16286046/55671847-ad746000-5894-11e9-9832-8ff913f9238c.gif) 
