@@ -42,6 +42,7 @@ There is possibility that all hint cards (at the bottom) visible at start match 
 
 ### Why the cells in the small cards don't have any children but only border and fill?
 Flare animations can be expensive. I have removed the content of small cells to lower the risk of frozen frames.
+
 Screen gif
 
 ![screen_cast_1](https://user-images.githubusercontent.com/16286046/55671845-a8afac00-5894-11e9-813c-1de2489e30db.gif) 
